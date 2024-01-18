@@ -5,3 +5,5 @@ Appen er et skoleprosjekt, og det er første gangen jeg prøvde meg fram med Dja
 
 Jeg brukte Tailwind istedenfor CSS, fordi jeg syns det gjør det lettere og fortere og utvikle appen ved å utnytte Tailwind.
 Django støtter Jinja2, som jeg brukte for å gjøre websiden dynamisk istedenfor å hard-code inn ting som f.eks produkter i katalogen.
+
+Python packagene ligger i requirements.txt, commanden for å launche appen er: py manage.py runserver
